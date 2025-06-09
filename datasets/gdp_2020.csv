@@ -1,0 +1,194 @@
+Country,Nominal_gdp_p_capita,PPP_gdp_p_capita,GDP_growth_percentage,Rise_fall_GDP
+Afghanistan,581,2390,-5,medium fall
+Albania,5287,14218,-3.5,medium fall
+Algeria,3263,11112,-5.992,medium fall
+Angola,2012,6932,-3.975,medium fall
+Antigua and Barbuda,14168,18618,-17.273,very high fall
+Argentina,8555,20751,-9.956,High fall
+Armenia,4155,13261,-7.571,High fall
+Aruba,21833,29090,-25.457,very high fall
+Australia,52825,51680,-2.438,short fall
+Austria,48154,55218,-6.59,High fall
+Azerbaijan,4218,14431,-4.29,medium fall
+Bahrain,22402,48766,-5.395,medium fall
+Bangladesh,1998,5307,3.798,medium rise
+Barbados,15163,13533,-17.6,very high fall
+Belarus,6399,20187,-0.9,short fall
+Belgium,44529,51096,-6.424,High fall
+Belize,3945,6046,-14.089,very high fall
+Benin,1251,3437,1.997,short rise
+Bhutan,3359,12060,-0.817,short fall
+Bolivia,3360,8344,-7.7,High fall
+Bosnia and Herzegovina,5913,15047,-5.5,medium fall
+Botswana,6781,16893,-8.25,High fall
+Brazil,6783,14916,-4.059,medium fall
+Brunei,26089,62371,1.203,short rise
+Bulgaria,9919,23817,-3.844,medium fall
+Burkina Faso,791,2262,0.793,short rise
+Burundi,254,760,-1.282,short fall
+Cabo Verde,3148,6424,-14.029,very high fall
+Cambodia,1655,4695,-3.532,medium fall
+Cameroon,1470,3646,-2.769,short fall
+Canada,43278,48720,-5.403,medium fall
+Central African Republic,490,979,-0.015,short fall
+Chad,654,1611,-0.887,Short fall
+Chile,12990,23366,-5.841,medium fall
+China,10484,17192,2.27,short rise
+Colombia,5336,14324,-6.847,High fall
+Comoros,1362,3048,-0.503,short fall
+Costa Rica,11982,19990,-4.796,medium fall
+Croatia,14072,27717,-9,High fall
+Cyprus,27054,40107,-5.106,medium fall
+Czech Republic,22579,40618,-5.556,medium fall
+Cote d'Ivoire ,2278,5365,2.277,short rise
+Republic of the Democratic Republic of the Congo,541,1106,-0.064,short fall
+Denmark,60494,58933,-3.287,medium fall
+Djibouti,3074,5096,-1,short fall
+Dominica,6904,11073,-10.445,very high fall
+Dominican Republic,7530,18068,-6.731,High fall
+Ecuador,5520,11009,-7.5,High fall
+Egypt,3587,12790,3.57,medium rise
+El Salvador,3794,8422,-8.58,High fall
+Equatorial Guinea,6773,17788,-5.778,medium fall
+Eritrea,588,1821,-0.627,short fall
+Estonia,23330,17745,-2.932,short fall
+Eswatini,3504,8957,-3.342,medium fall
+Ethiopia,994,2908,6.057,High rise
+Fiji,4797,11567,-19,very high fall
+Finland,48981,49853,-2.893,short fall
+France,39907,46062,-8.232,High fall
+Gabon,7421,15970,-1.757,short fall
+Georgia,4248,14918,-6.1,High fall
+Germany,45733,54076,-4.903,medium fall
+Ghana,2223,5693,0.88,short rise
+Greece,17670,28748,-8.248,High fall
+Grenada,9186,15431,-13.464,very high fall
+Guatemala,4289,8239,-1.5,short fall
+Guinea,1106,2604,5.225,medium rise
+Guinea-Bissau,790,2348,-2.4,short fall
+Guyana,7327,19684,43.384,very high rise
+Haiti,1253,2916,-3.7,medium fall
+Honduras,2383,5450,-8,High fall
+HongKong,46753,59520,-6.142,High fall
+Hungary,15820,33030,-4.962,medium fall
+Iceland,59634,55966,-6.649,High fall
+India,1965,4661,-7.965,High fall
+Indonesia,3922,12222,-2.07,short fall
+Iraq,4289,10003,-10.885,very high fall
+Ireland,83850,94392,2.475,short rise
+Iran,7555,13073,1.516,short rise
+Israel,43689,40547,-2.377,short fall
+Italy,31288,40861,-8.871,High fall
+Jamaica,5096,9975,-10.223,very high fall
+Japan,40146,42248,-4.83,medium fall
+Jordan,4259,10306,-1.973,short fall
+Kazakhstan,8733,26565,-2.598,short fall
+Kenya,2039,4926,-0.127,short fall
+Kiribati,1688,2200,-0.476,short fall
+South Korea,31497,44621,-0.958,short fall
+Kosovo,4310,11274,-6,medium fall
+Kuwait,22105,41627,-8.134,High fall
+Kyrgyzstan,1146,5036,-7.98,High fall
+Laos,2626,8111,-0.435,short fall
+Latvia,17560,31509,-3.624,medium fall
+Lebanon,2802,11564,-25,very high fall
+Lesotho,1003,2718,-4.543,medium fall
+Liberia,646,1557,-2.969,short fall
+Libya,3281,5893,-59.719,very high fall
+Lithuania,19917,38824,-0.823,short fall
+Luxembourg,116921,118002,-1.314,short fall
+Macao,36350,56078,-56.306,very high fall
+Madagascar,502,1599,-4.239,medium fall
+Malawi,407,993,0.6,short rise
+Malaysia,10270,27402,-5.588,medium fall
+Maldives,9934,19609,-32.243,very high fall
+Mali,897,2401,-1.983,short fall
+Malta,28294,42856,-7.001,High fall
+Marshall Islands,4240,3786,-3.3,medium fall
+Mauritania,1971,5834,-2.161,short fall
+Mauritius,8993,20292,-15.8,very high fall
+Mexico,8421,19130,-8.239,High fall
+Micronesia,3899,3446,-1.639,short fall
+Moldova,4366,12811,-7.5,High fall
+Mongolia,3916,11825,-5.336,medium fall
+Montenegro,7689,19252,-15.205,very high fall
+Morocco,3158,7620,-7.021,High fall
+Mozambique,450,1277,-0.5,short fall
+Myanmar,1527,5242,3.189,medium rise
+Namibia,4175,9397,-7.243,High fall
+Nauru,8867,9856,0.706,short rise
+Nepal,1196,4061,-1.878,short fall
+Netherlands,52248,57534,-3.799,medium fall
+New Zealand,41127,42018,-2.991,short fall
+Nicaragua,1870,5575,-3,short fall
+Niger,566,1259,1.2,short rise
+Nigeria,2083,5187,-1.794,short fall
+North Macedonia,5918,16712,-4.532,medium fall
+Norway,67176,65800,-0.762,short fall
+Oman,14216,30178,-6.367,High fall
+Pakistan,1260,5150,-0.385,short fall
+Palau,14412,14309,-10.286,very high fall
+Panama,12373,27003,-17.949,very high fall
+Papua New Guinea,2685,3833,-3.879,medium fall
+Paraguay,4946,12881,-0.9,short fall
+Peru,6084,11871,-11.115,very high fall
+Philippines,3330,8452,-9.513,High fall
+Poland,15654,34103,-2.723,short fall
+Portugal,22489,34043,-7.587,High fall
+Puerto Rico,30317,34025,-7.5,High fall
+Qatar,52144,93508,-2.616,short fall
+Romania,12797,30526,-3.9,medium fall
+Russia,10037,27903,-3.056,medium fall
+Rwanda,819,2337,-0.199,short fall
+Samoa,3961,5653,-3.154,medium fall
+San Marino,44818,58427,-9.745,High fall
+Saudi Arabia,20178,46811,-4.147,medium fall
+Senegal,1460,3478,0.828,short rise
+Serbia,7636,19146,-0.98,short fall
+Seychelles,11639,25414,-13.359,very high fall
+Sierra Leone,527,1725,-2.249,short fall
+Singapore,58902,97057,-5.391,medium fall
+Slovakia ,19071,32710,-5.2,medium fall
+Slovenia,25211,38807,-5.532,medium fall
+Solomon Island,2392,2455,-4.32,medium fall
+Somalia,327,925,-1.5,short fall
+South Africa,5067,12032,-6.96,High fall
+South Sudan,296,791,-6.589,High fall
+Spain,27132,38392,-10.964,very high fall
+Sri Lanka,3679,13215,-3.569,medium fall
+saint kitts and nevis,14919,20987,-18.65,very high fall
+saint lucia,9351,13359,-18.85,very high fall
+saint vincent and the grenadines,7122,12606,-4.18,medium fall
+Sudan,775,4098,-3.63,medium fall
+Suriname,3988,14513,-13.455,very high fall
+Sweden,51796,54146,-2.818,short fall
+Switzerland,86849,72874,-2.983,short fall
+Sao Tome and Principe,1918,3829,-6.5,High fall
+Taiwan,28306,55724,3.109,medium rise
+Tajikistan,844,3676,4.5,medium rise
+Tanzania,1090,2821,1.029,short rise
+Thailand,7190,18236,-6.087,High fall
+The Bahmas,29221,33148,-16.281,very high fall
+The The Gambia,791,2276,0,No Change
+Timor,1359,3382,-6.8,High fall
+Togo,905,2199,0.7,short rise
+Tonga,5125,6191,-0.466,short fall
+Trinidad and Tobago,15384,25031,-7.832,High fall
+Tunisia,3323,10120,-8.8,High fall
+Turkey,8548,30253,1.794,short rise
+Turkmenistan,7967,16521,0.782,short rise
+Tuvalu,4372,4497,0.53,short rise
+Uganda,912,2574,-2.104,short fall
+Ukraine,3653,13110,-4.218,medium fall
+United Arab Emirates,31982,58753,-5.924,medium fall
+United Kingdom,40406,44117,-9.92,High fall
+USA,63416,63416,-3.505,medium fall
+Uruguay,15778,22459,-5.7,medium fall
+Uzbekistan,1702,7449,1.648,short rise
+Vanuatu,2876,2586,-9.235,High fall
+Venezuela,1691,5178,-30,very high fall
+Vietnam,3499,10869,2.906,short rise
+Pallestine,3042,5388,-10.96,High fall
+Yemen,620,1927,-5,medium fall
+Zambia,981,3342,-3.497,medium fall
+Zimbabwe,1385,2622,-8.002,High fall
